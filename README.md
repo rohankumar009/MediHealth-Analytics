@@ -4,6 +4,8 @@
 
 **MediHealth Analytics** is a comprehensive healthcare data analytics initiative aimed at enhancing clinical decision-making by leveraging data-driven insights and predictive analytics by using ML and other technologies to represent data. This documentation is for providing an in-depth overview of the project, its objectives, data sources, methodologies, and ethical considerations I have taken as I build.
 
+      Currently in Progress of Building
+
 ## Project Objectives
 
 The project is guided by a set of core objectives:
